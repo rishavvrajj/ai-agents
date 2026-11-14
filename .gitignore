@@ -17,3 +17,5 @@ src/data/vector_store/
 
 # Temp scripts
 rewrite_nb.py
+
+.env
