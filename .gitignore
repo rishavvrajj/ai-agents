@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ChromaDB persisted index and binary files
+src/data/vector_store/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temp scripts
+rewrite_nb.py
